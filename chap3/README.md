@@ -1,5 +1,5 @@
 # Listing 3.7 数値のメモリ上の表現
-Python TutorにListing 3.7(c3-7.c)のコードを入力し確認する。
+[Python Tutor](https://pythontutor.com/)にListing 3.7(c3-7.c)のコードを入力し確認する。
 
 * サイト画面でCを選択した後に、Listing 3.7のコードを入力する
 * **Visualize Execution**ボタンを押す
