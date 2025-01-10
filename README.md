@@ -61,3 +61,31 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.8+9-LTS-211, mixed mode, sharing)
 $ javac --version
 javac 17.0.8
 ```
+
+
+## Elixir
+[chap5](chap5)にElixirのコードが格納されている。
+ローカルPCにCの開発環境を構築し、確認している。
+
+### サンプルプログラム確認方法
+*.exのディレクトリに移動しコンパイルする。
+
+```
+$ elixirc hello.ex
+```
+
+実行する（以下はhello.exの実行結果）
+
+```
+$ elixir -e Hello.world
+Hello world!
+```
+
+
+### 開発環境のバージョン
+```
+$ elixir --version
+Erlang/OTP 27 [erts-15.1] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:1] [dtrace]
+
+Elixir 1.17.3 (compiled with Erlang/OTP 27)
+```
