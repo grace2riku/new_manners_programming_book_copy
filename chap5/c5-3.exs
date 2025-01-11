@@ -1,6 +1,6 @@
 # Listing 5.3 Elixirによる平方根計算
 defmodule SquareRoot do
-  @eps 0.001
+  @eps 0.0001
 
   def main do
     read_positive_float() |> sqrt() |> IO.inspect(label: "Result")
